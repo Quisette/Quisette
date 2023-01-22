@@ -5,7 +5,7 @@
 Hi, I'm Quisette, A college student interested in programming and a lot of hobbies.
 
 I'm currently focusing at themes as follows:
-* ⌨ (Traditional) Chinese input method improvements]
+* ⌨ (Traditional) Chinese input method improvements
 * ✒ Indent-Based LaTeX transpiler
 * ☗ Shogi related:
   * Shogi markdown
