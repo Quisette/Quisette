@@ -4,13 +4,13 @@
 
 Hi, I'm Quisette, A college student interested in programming and a lot of hobbies.
 
-I'm currently focusing at themes as follows:
-* ⌨ (Traditional) Chinese input method improvements
+I'm currently working on some projects listed as follows:
+* ⌨ A new (Traditional) Chinese input method
 * ✒ Indent-Based LaTeX transpiler
 * ☗ Shogi related:
   * Shogi markdown
   * Shogi on LaTeX
-  * Shogi Board
+  * Shogi Board on Web (Maybe using Dart?)
   * Shogi website (dictionary) in Chinese  
 
 
