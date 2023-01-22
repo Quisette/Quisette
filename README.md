@@ -12,4 +12,6 @@ I'm currently focusing at themes as follows:
   * Shogi on LaTeX
   * Shogi Board
   * Shogi website (dictionary) in Chinese  
-If you're Interested in the projects above, feel free to contact me at [quisette@quisette.me](mailto:quisette@quisette.me)
+
+
+If you're Interested in the projects above as well, feel free to contact me at [quisette@quisette.me](mailto:quisette@quisette.me).
