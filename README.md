@@ -11,5 +11,5 @@ I'm currently focusing at themes as follows:
   * Shogi markdown
   * Shogi on LaTeX
   * Shogi Board
-  * Shogi website (dictionary) in Chinese
-If you're Interested in the projects above too, feel free to contact me at [quisette@quisette.me](mailto:quisette@quisette.me)
+  * Shogi website (dictionary) in Chinese  
+If you're Interested in the projects above, feel free to contact me at [quisette@quisette.me](mailto:quisette@quisette.me)
