@@ -9,7 +9,7 @@ I'm currently working on some projects listed as follows:
 * ✒ Indent-Based LaTeX transpiler
 * ☗ Shogi related:
   * Shogi markdown
-  * Shogi on LaTeX
+  * Shogi on LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
   * Shogi Board on Web (Maybe using Dart?)
   * Shogi website (dictionary) in Chinese  
 
