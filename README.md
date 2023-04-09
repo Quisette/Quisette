@@ -1,6 +1,9 @@
 # Quisette Chung
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=Quisette&show_icons=true&theme=dark&count_private=true&show_icons=true"> </img>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Quisette&show_icons=true&theme=dark&count_private=true&show_icons=true)
+
 
 Hi, I'm Quisette, A college student interested in programming and a lot of hobbies.
 
@@ -10,7 +13,7 @@ I'm currently working on some projects listed as follows:
 * ☗ Shogi related:
   * Shogi markdown
   * Shogi on LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
-  * Shogi Board on Web (Maybe using Dart?)
+  * 81 Dojo Frontend Redesign: [new-81-frontend](https://github.com/Quisette/new-81-frontend)
   * Shogi website (dictionary) in Chinese  
 
 
