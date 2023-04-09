@@ -13,7 +13,7 @@ I'm currently working on some projects listed as follows:
 * ☗ Shogi related:
   * Shogi markdown
   * Shogi on LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
-  * 81 Dojo Frontend Redesign: [new-81-frontend](https://github.com/Quisette/new-81-frontend)
+  * 81 Dojo frontend Redesign: [new-81-frontend](https://github.com/Quisette/new-81-frontend)
   * Shogi website (dictionary) in Chinese  
 
 
