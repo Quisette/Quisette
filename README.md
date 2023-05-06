@@ -11,6 +11,7 @@ I'm currently working on some projects listed as follows:
 * ⌨ A new (Traditional) Chinese input method
 * ✒ Indent-Based LaTeX transpiler
 * ☗ Shogi related:
+  * Contributor and Trad. Chinese Translator of [sunfish-shogi/electron-shogi](https://github.com/sunfish-shogi/electron-shogi)
   * Shogi markdown
   * Shogi on LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
   * 81 Dojo frontend Redesign: [new-81-frontend](https://github.com/Quisette/new-81-frontend)
