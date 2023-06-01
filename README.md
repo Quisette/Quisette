@@ -18,4 +18,4 @@ I'm currently working on some projects listed as follows:
   * Shogi website (dictionary) in Chinese  
 
 
-If you're Interested in the projects above as well, feel free to contact me at [quisette@quisette.me](mailto:quisette.work@proton.me).
+If you're Interested in the projects above as well, feel free to contact me at [quisette.work@proton.me](mailto:quisette.work@proton.me).
