@@ -1,6 +1,6 @@
 # Quisette Chung
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Quisette&show_icons=true&theme=dark&count_private=true&show_icons=true"> </img>
+<img  src="https://github-readme-stats.vercel.app/api?username=Quisette&show_icons=true&theme=dark&count_private=true&rank_icon=github"> </img>
 </div>
 
 
