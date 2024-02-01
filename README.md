@@ -9,11 +9,9 @@ Hi, I'm Quisette, A college student interested in programming and a lot of hobbi
 
 I'm currently working on some projects listed as follows:
 * ⌨ A new (Traditional) Chinese input method
-* ✒ Indent-Based LaTeX transpiler
 * ☗ Shogi related:
   * Contributor and Trad. Chinese Translator of [sunfish-shogi/electron-shogi](https://github.com/sunfish-shogi/electron-shogi)
   * Shogi Board Visualizer in LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
-  * 81 Dojo frontend Redesign: [new-81-frontend](https://github.com/Quisette/new-81-frontend)
   * Shogi Tutorial & Blog Website: [全軍躍動](https://zengunyakudou.netlify.app)
   * Selt-Hosted Kifu (Game Record) Database & Analysis tool
 
