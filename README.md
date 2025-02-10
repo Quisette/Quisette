@@ -12,7 +12,7 @@ I'm currently working on some projects listed as follows:
 * ☗ Shogi related:
   * Contributor and Trad. Chinese Translator of [ShogiHome](https://github.com/sunfish-shogi/electron-shogi)
   * Shogi Board Visualizer in LaTeX: [RyuOhTeX](https://github.com/RyuOhTeX/RyuOhTeX)
-  * Shogi Tutorial & Blog Website: [全軍躍動](https://zengunyakudou.netlify.app)
+  * Shogi Tutorial & Blog Website: [社長の將棋駒湯](https://komasoup.asobigoma.com)
   * Selt-Hosted Kifu (Game Record) Database & Analysis tool
 
 
